@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100mm" height="7mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#039BE5;fill-rule:nonzero}
+    .fil1 {fill:#039BE5;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="5676,401 9772,401 9772,342 5676,342 "/>
+  <path class="fil0" d="M4699 375l269 269 270 -269 -270 -269 -269 269zm269 333l-333 -333 333 -333 333 333 -333 333z"/>
+  <path class="fil1" d="M5019 372l270 270 269 -270 -269 -269 -270 269zm270 333l-333 -333 333 -333 332 333 -332 333z"/>
+  <path class="fil0" d="M4366 375l269 269 270 -269 -270 -269 -269 269zm269 333l-333 -333 333 -333 333 333 -333 333z"/>
+  <polygon class="fil0" points="142,400 4238,400 4238,341 142,341 "/>
+ </g>
+</svg>

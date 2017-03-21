@@ -1,0 +1,24 @@
+{
+  "name": "ner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gulp-bower": "^0.0.13",
+    "main-bower-files": "^2.13.1"
+  },
+  "devDependencies": {
+    "fs-jetpack": "^0.13.1",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-usemin": "^0.3.28",
+    "inject": "^1.0.0-beta2",
+    "usemin": "^0.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

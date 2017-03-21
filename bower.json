@@ -1,0 +1,25 @@
+{
+  "name": "ner",
+  "authors": [
+    "Juan Supp <juang@suppliesdc.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-autohidingnavbar": "^1.0.6",
+    "scrollreveal": "^3.3.4",
+    "typed.js": "^1.1.6",
+    "vivus": "^0.4.0",
+    "smooth-scroll": "https://github.com/cferdinandi/smooth-scroll.git#^10.2.1",
+    "Scrollax.js": "https://github.com/iprodev/Scrollax.js.git#^1.0.0"
+  }
+}
